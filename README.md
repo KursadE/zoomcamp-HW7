@@ -1,5 +1,5 @@
 # zoomcamp-HW7
-## Description of the problem
+# Description of the problem
 
 The aim of the project is to identify customers that could show higher intent towards a recommended credit card given a set of customer data.
 
@@ -19,6 +19,6 @@ Pipfile, Lock and Dockerfile are included in the repository under their names to
 
 Finally, HW7_test.ipynb is added to do test run via a notebook, after the project is initiated in the Docker environment. 
 
-## Instructions on how to run the project
+# Instructions on how to run the project
 
 
