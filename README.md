@@ -26,8 +26,10 @@ First, download all the files into the same folder on your computer.
 
 For viewing and editing notebooks, Jupyter can be used. Other files can be viewed and edited on VS Code.
 
-On Mac, while Docker is running as a separate program, type "docker build -t zoomcamp-hw7 ." on Terminal window, staying in the same folder that contains all the downloaded files. 
+On Mac OS, on Terminal window, while staying in the same folder that contains the downloaded files, run "pip install pipenv" to create 'Pipfile' and 'Pipfile.lock' files.
 
-Type "docker run -it --rm -p 9696:9696 zoomcamp-hw7" after Docker installations are completed. 
+On Mac OS, while Docker is running as a separate program, type "docker build -t zoomcamp-hw7 ." on Terminal window, staying in the same folder that contains all the downloaded files. 
+
+Type "docker run -it --rm -p 9696:9696 zoomcamp-hw7" after Docker installations are completed.
 
 Finally, open "HW7_test.ipynb". Run the file and get the prediction result for the test customer.
