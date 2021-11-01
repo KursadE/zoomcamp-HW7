@@ -30,7 +30,7 @@ output_file = f'tree_model_depth={max_depth}.bin'
 
 
 print('Reading data')
-df = pd.read_csv("/Users/Erol/Documents/train data credit card.csv")
+df = pd.read_csv("https://github.com/KursadE/zoomcamp-HW7/blob/main/train%20data%20credit%20card.csv")
 
 
 # ** Data Preparation and Data Cleaning **
