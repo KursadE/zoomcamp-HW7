@@ -12,13 +12,13 @@ The aim is to predict whether customers are interested or not, which is represen
 
 Data preparation and analysis steps, training (multiple) models, tuning models' performance and selecting the best model are included in notebook.ipynb.
 
-Steps including "training the final model" and "saving it to a pickle file" are done in train.py.
+Steps including "training the final model" and "saving it to a pickle file" are done in 'train.py'.
 
-Loading the model and serving it via Flask is done in predict.py.
+Loading the model and serving it via Flask is done in 'predict.py'.
 
-Pipfile, Lock and Dockerfile are included in the repository under their respective names together with the data set as a csvfile.
+'Pipfile', 'Lock' and 'Dockerfile' are included in the repository under their respective names together with the data set as a csvfile.
 
-Finally, HW7_test.ipynb is added to do test run via a notebook, after the project is initiated in the Docker environment. 
+Finally, 'HW7_test.ipynb' is added to do test run via a notebook, after the project is initiated in the Docker environment. 
 
 # Instructions on how to run the project
 
